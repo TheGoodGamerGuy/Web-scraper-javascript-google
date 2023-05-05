@@ -1,0 +1,14 @@
+{
+    "name": "emils",
+    "version": "1.0.0",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "fuse.js": "^6.6.2",
+        "googleapis": "^118.0.0",
+        "https": "^1.0.0",
+        "puppeteer": "^19.4.0"
+    },
+    "scripts": {
+        "start": "node ./main/main.js"
+    }
+}
